@@ -1,0 +1,32 @@
+{
+  "name": "hexo-deployer-oss",
+  "version": "0.0.1",
+  "description": "Aliyun-OSS deployer plugin for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miserylee/hexo-deployer-oss.git"
+  },
+  "keywords": [
+    "hexo",
+    "deployer",
+    "oss",
+    "plugin",
+    "aliyun"
+  ],
+  "author": "Misery Lee <miserylee@foxmail> (https://codebrick.cc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miserylee/hexo-deployer-oss/issues"
+  },
+  "homepage": "https://github.com/miserylee/hexo-deployer-oss#readme",
+  "devDependencies": {
+    "eslint": "^3.12.0"
+  },
+  "dependencies": {
+    "oss-serve": "^0.2.3"
+  }
+}
